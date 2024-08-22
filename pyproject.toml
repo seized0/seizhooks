@@ -1,0 +1,18 @@
+[project]
+name = "seizhooks"
+version = "0.0.1"
+authors = [
+  { name="uhq.s" },
+]
+description = "Seizhooks is a simple lib using discord api to interact with webhook"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/seized0/seizhooks"
+Issues = "https://github.com/seized0/"
